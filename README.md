@@ -1,26 +1,174 @@
-# 💫 About Me:
-🧑‍💻About Me<br><br>Hi, I’m Eron Bruti  a System Architect and Full-Stack Developer from Kosovo.<br>I specialize in building secure, scalable, and AI-augmented platforms that turn complexity into clarity. My approach fuses deep back-end engineering (Node.js, Express, SQL, GraphQL) with intelligent front-end design (React, Tailwind, JavaScript) to craft experiences that are fast, reliable, and purpose-driven.<br><br>I believe in platform thinking — designing systems that not only solve today’s challenges but evolve with tomorrow’s demands. From optimizing Linux environments to engineering intelligent chat systems, I focus on precision, resilience, and human-centric innovation.<br>My vision is to elevate Kosovo’s tech ecosystem through globally competitive software that empowers people and ideas. If you’re building something bold, I’m ready to help make it extraordinary.<br><br>💻 I’m currently working on<br>Building secure, scalable full-stack ecosystems at IT-NERD24 GmbH, focusing on React-based front-ends, Node/Express back-ends, and advanced API performance and security optimization. I’m engineering systems that are fast, reliable, and designed to evolve intelligently at scale.<br><br>🧩 I’m looking to collaborate on<br>AI-powered platforms, developer tools, and edtech systems that create real-world impact — especially projects aiming to push the limits of modern web architecture and make technology more meaningful for people.<br><br>📡I’m looking for help with<br>Connecting with creators and innovators who share a vision for human-centric AI and sustainable system design. I’m always open to collaborating on prototypes, integrations, and experiments that drive long-term impact.<br><br>🧮 I’m currently learning<br>Advanced system design for distributed applications, multi-region architecture, and AI-driven user experience design. I’m also exploring automation workflows and performance tuning on Linux for production-grade environments.<br><br>🧠 Ask me about<br>System architecture, API strategy (REST & GraphQL), AI chatbot logic, Linux optimization, and how to scale early-stage ideas into resilient software ecosystems.<br><br>🧑‍💻 Fun fact<br>I sketch every system by hand before writing code — because every great build starts with clear architecture and intent.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=61DAFB&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Eron+Bruti+%F0%9F%91%8B;System+Architect+%26+Full-Stack+Innovator;Crafting+Resilient%2C+AI-Augmented+Software+Ecosystems" alt="Typing SVG">
+  </a>
+</div>
 
+<br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/brrutii) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brutieron) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eron-bruti-067b702aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brutieron@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brutieron&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=brutieron&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brutieron&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brutieron&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brutieron&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<!-- About Section with 2-Column Layout -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2 align="left">Architecting the Future, One System at a Time.</h2>
+      <p align="left">
+        I'm a System Architect and Full-Stack Developer from Kosovo, dedicated to transforming complex challenges into elegant, high-performance software solutions. My work is a fusion of deep back-end engineering and intelligent, human-centric front-end design.
+      </p>
+      <ul>
+        <li>
+          🧠 <strong>Architecting</strong> secure, scalable, and AI-augmented platforms.
+        </li>
+        <li>
+          ⚙️ <strong>Engineering</strong> with a powerful stack: <strong>Node.js, Express, React, GraphQL, and SQL.</strong>
+        </li>
+        <li>
+          💡 <strong>Innovating</strong> from the Linux kernel to the UI, focusing on resilience, speed, and purpose.
+        </li>
+        <li>
+          🇽🇰 <strong>Vision:</strong> Elevating Kosovo’s tech ecosystem through world-class software.
+        </li>
+      </ul>
+      <p align="left">
+        If you’re building something bold, I’m ready to help make it extraordinary.
+      </p>
+    </td>
+    <td valign="top" width="35%">
+      <div align="center">
+        <img src="https://i.pinimg.com/originals/80/5c/ce/805cce619a9d70ab8912e52b86552140.gif" width="100%" alt="Architect GIF"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brutieron&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 My Core Focus & Tech Arsenal
+
+<details>
+  <summary><strong>Click to expand my full Tech Stack & Tools</strong></summary>
+  <br>
+  
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <strong>Languages & Core Tech:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+          <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+          <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+        </p>
+        <strong>Frontend Development:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+          <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+          <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+          <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+        </p>
+        <strong>Backend Development:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+          <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io">
+          <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
+          <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon">
+        </p>
+        <strong>Databases:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+        </p>
+        <strong>AI & Machine Learning:</strong><br>
+        <p>
+            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+            <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA">
+        </p>
+      </td>
+      <td valign="top" width="50%">
+        <strong>DevOps & Cloud:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+          <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
+          <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean">
+          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+        </p>
+        <strong>Design & Prototyping:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
+          <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
+          <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
+        </p>
+        <strong>Tools & Utilities:</strong><br>
+        <p>
+          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+          <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+          <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
+        </p>
+        <strong>Hardware & IoT:</strong><br>
+        <p>
+            <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+            <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+            <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+---
+
+### 📊 My GitHub Pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brutieron&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Eron's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutieron&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Eron's Top Languages" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=brutieron&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Eron's Trophies" />
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <br>
+  <!-- GitHub Contribution Snake -->
+  <img src="https://github.com/brutieron/brutieron/blob/output/github-contribution-grid-snake.svg" alt="Eron's Contribution Snake" />
+</div>
+
+<br>
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  I'm always open to connecting with fellow innovators and creators. Let's discuss system design, AI, or the future of tech.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/eron-bruti-067b702aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="mailto:brutieron@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a> &nbsp;
+  <a href="https://instagram.com/brutieron" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a> &nbsp;
+  <a href="https://facebook.com/brrutii" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=brutieron&icon=2&color=6" alt="Visitor Count">
+</p>
