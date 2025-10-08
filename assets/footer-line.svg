@@ -1,0 +1,21 @@
+<svg width="600" height="20" viewBox="0 0 600 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#E1E4E8;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#0366D6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E1E4E8;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="grad-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#161B22;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#58A6FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <style>
+    .line { stroke: url(#grad-light); }
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: url(#grad-dark); }
+    }
+  </style>
+  <path class="line" d="M 10 10 L 590 10" stroke-width="4" stroke-linecap="round"/>
+</svg>

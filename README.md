@@ -166,8 +166,11 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brutieron&label=PROFILE%20VIEWS&color=00BFFF&style=flat-square" alt="Profile views" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/brutieron/brutieron?color=00BFFF&style=flat-square&label=LAST%20ACTIVITY" alt="Last repository activity" />
-</p>
+<div align="center">
+  <img src="./assets/footer-line.svg" width="600" alt="divider">
+  <p>
+    <strong>Architecting with Precision & Purpose</strong>
+    <br/>
+    <em>Eron Bruti &copy; 2024</em>
+  </p>
+</div>
