@@ -1,0 +1,27 @@
+name: Update README Last Updated Timestamp
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      # This permission is required to push the changes back to the repo
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update timestamp
+        run: |
+          # This command touches the README, marking it as modified
+          # and ensuring the "last-commit" badge updates.
+          touch README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          # We add --allow-empty to ensure a commit happens even if nothing else changed
+          git commit -m "chore: auto-update README timestamp" --allow-empty || echo "No changes to commit"
+          git push

@@ -167,5 +167,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=brutieron&icon=2&color=6" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=brutieron&label=PROFILE%20VIEWS&color=00BFFF&style=flat-square" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/last-commit/brutieron/brutieron?color=00BFFF&style=flat-square&label=LAST%20ACTIVITY" alt="Last repository activity" />
 </p>
