@@ -6,7 +6,6 @@
 
 <br>
 
-<!-- About Section with 2-Column Layout -->
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -31,8 +30,8 @@
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <!-- This now points to the reliable GIF inside your OWN repository -->
-        <img src="./assets/architecture.gif" width="100%" alt="System Architecture Animation"/>
+        <!-- This now points to your custom, theme-aware, animated SVG -->
+        <img src="./assets/architecture.svg" width="100%" alt="System Architecture Animation"/>
       </div>
     </td>
   </tr>
