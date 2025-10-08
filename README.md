@@ -10,31 +10,29 @@
 <table>
   <tr>
     <td valign="top" width="65%">
-      <h2 align="left">Architecting the Future, One System at a Time.</h2>
+      <h2 align="left">My Philosophy</h2>
       <p align="left">
-        I'm a System Architect and Full-Stack Developer from Kosovo, dedicated to transforming complex challenges into elegant, high-performance software solutions. My work is a fusion of deep back-end engineering and intelligent, human-centric front-end design.
+        I engineer digital ecosystems. My work bridges deep back-end architecture with intelligent, human-centric user experiences. I don't just build applications; I design resilient, scalable platforms built for tomorrow's demands.
       </p>
       <ul>
         <li>
-          🧠 <strong>Architecting</strong> secure, scalable, and AI-augmented platforms.
+          🧠 <strong>Systematic Design:</strong> Architecting secure, scalable, and AI-augmented platforms is the foundation of my work. Every great build starts with a clear blueprint.
         </li>
         <li>
-          ⚙️ <strong>Engineering</strong> with a powerful stack: <strong>Node.js, Express, React, GraphQL, and SQL.</strong>
+          ⚙️ <strong>Full-Stack Execution:</strong> I command the entire technology stack, from optimizing Linux environments with <strong>Node.js</strong> to crafting intuitive front-ends with <strong>React</strong> and <strong>TypeScript</strong>.
         </li>
         <li>
-          💡 <strong>Innovating</strong> from the Linux kernel to the UI, focusing on resilience, speed, and purpose.
-        </li>
-        <li>
-          🇽🇰 <strong>Vision:</strong> Elevating Kosovo’s tech ecosystem through world-class software.
+          🇽🇰 <strong>Local Impact, Global Standards:</strong> My mission is to elevate Kosovo’s tech landscape by delivering software that competes on the world stage.
         </li>
       </ul>
       <p align="left">
-        If you’re building something bold, I’m ready to help make it extraordinary.
+        <em>If you're building a purpose-driven platform, we should talk.</em>
       </p>
     </td>
     <td valign="top" width="35%">
       <div align="center">
-        <img src="https://i.pinimg.com/originals/80/5c/ce/805cce619a9d70ab8912e52b86552140.gif" width="100%" alt="Architect GIF"/>
+        <!-- This now points to the reliable GIF inside your OWN repository -->
+        <img src="./assets/architecture.gif" width="100%" alt="System Architecture Animation"/>
       </div>
     </td>
   </tr>
