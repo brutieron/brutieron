@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Eron+Bruti+%2F%2F+System+Architect;Architecting+Resilient+Full-Stack+Ecosystems;Engineering+Human-Centric+AI+Solutions" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Eron+Bruti;Architecting+Resilient+Full-Stack+Ecosystems;Engineering+Human-Centric+AI+Solutions" alt="Typing SVG">
   </a>
 </div>
 
