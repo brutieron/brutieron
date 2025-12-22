@@ -1,176 +1,125 @@
+<!-- Header / Banner Area -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Eron+Bruti;Architecting+Resilient+Full-Stack+Ecosystems;Engineering+Human-Centric+AI+Solutions" alt="Typing SVG">
-  </a>
-</div>
-
-<br>
-
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <h2 align="left">My Philosophy</h2>
-      <p align="left">
-        I engineer digital ecosystems. My work bridges deep back-end architecture with intelligent, human-centric user experiences. I don't just build applications; I design resilient, scalable platforms built for tomorrow's demands.
-      </p>
-      <ul>
-        <li>
-          🧠 <strong>Systematic Design:</strong> Architecting secure, scalable, and AI-augmented platforms is the foundation of my work. Every great build starts with a clear blueprint.
-        </li>
-        <li>
-          ⚙️ <strong>Full-Stack Execution:</strong> I command the entire technology stack, from optimizing Linux environments with <strong>Node.js</strong> to crafting intuitive front-ends with <strong>React</strong> and <strong>TypeScript</strong>.
-        </li>
-        <li>
-          🇽🇰 <strong>Local Impact, Global Standards:</strong> My mission is to elevate Kosovo’s tech landscape by delivering software that competes on the world stage.
-        </li>
-      </ul>
-      <p align="left">
-        <em>If you're building a purpose-driven platform, we should talk.</em>
-      </p>
-    </td>
-    <td valign="top" width="35%">
-      <div align="center">
-        <!-- This now points to your custom, theme-aware, animated SVG -->
-        <img src="./assets/architecture.svg" width="100%" alt="System Architecture Animation"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 My Core Focus & Tech Arsenal
-
-<details>
-  <summary><strong>Click to expand my full Tech Stack & Tools</strong></summary>
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:007ACC&height=300&section=header&text=Eron%20Bruti&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Resilient%20Ecosystems&descAlignY=55&descSize=25" alt="Eron Bruti Header" width="100%"/>
   
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <strong>Languages & Core Tech:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-          <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-          <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-          <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-        </p>
-        <strong>Frontend Development:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-          <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-          <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-          <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-        </p>
-        <strong>Backend Development:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-          <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io">
-          <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-          <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon">
-        </p>
-        <strong>Databases:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-        </p>
-        <strong>AI & Machine Learning:</strong><br>
-        <p>
-            <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-            <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA">
-        </p>
-      </td>
-      <td valign="top" width="50%">
-        <strong>DevOps & Cloud:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-          <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-          <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare">
-          <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean">
-          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-        </p>
-        <strong>Design & Prototyping:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
-          <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
-          <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator">
-        </p>
-        <strong>Tools & Utilities:</strong><br>
-        <p>
-          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-          <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-          <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-        </p>
-        <strong>Hardware & IoT:</strong><br>
-        <p>
-            <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-            <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
-            <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
-        </p>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
----
-
-### 📊 My GitHub Pulse
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brutieron&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Eron's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutieron&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Eron's Top Languages" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=brutieron&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Eron's Trophies" />
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-  <br>
-  <!-- GitHub Contribution Snake -->
-  <img src="https://github.com/brutieron/brutieron/blob/output/github-contribution-grid-snake.svg" alt="Eron's Contribution Snake" />
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Engineering+Human-Centric+AI+Solutions;Full-Stack+Scalability+Expert;Building+the+Future+of+Kosovo+Tech" alt="Typing SVG">
+  </a>
 </div>
 
-<br>
+<br/>
+
+<!-- Philosophy Section: Stacked for Mobile Responsiveness -->
+<h2 align="center">⚡ Engineering Philosophy</h2>
+
+<div align="center">
+  <blockquote>
+    "I don't just build applications; I design resilient, scalable platforms built for tomorrow's demands."
+  </blockquote>
+</div>
+
+<br/>
+
+<p align="center">
+  I engineer digital ecosystems. My work bridges deep <strong>back-end architecture</strong> with intelligent, <strong>human-centric user experiences</strong>. 
+  <br/>
+  My mission is to elevate Kosovo’s tech landscape by delivering software that competes on the global stage.
+</p>
+
+<div align="center">
+  <!-- Use a clear, centered image (or your architecture SVG) here. 
+       Note: Ensure the SVG is responsive or use a PNG for better compatibility across devices -->
+  <img src="./assets/architecture.svg" width="80%" alt="System Architecture">
+</div>
+
+<br/>
+
+<!-- Core Competencies -->
+<h3 align="center">🧠 The Blueprint</h3>
+
+<p align="center">
+  <strong>Systematic Design</strong> • Architecting secure, AI-augmented platforms.<br/>
+  <strong>Full-Stack Execution</strong> • From Linux kernel optimization to React/Next.js interfaces.<br/>
+  <strong>Global Standards</strong> • Writing clean, maintainable, and documented code.
+</p>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
-
-<p align="center">
-  I'm always open to connecting with fellow innovators and creators. Let's discuss system design, AI, or the future of tech.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/eron-bruti-067b702aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="mailto:brutieron@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a> &nbsp;
-  <a href="https://instagram.com/brutieron" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a> &nbsp;
-  <a href="https://facebook.com/brrutii" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
-
-<hr>
+<!-- Tech Stack using Skill Icons (Cleaner, Responsive) -->
+<h2 align="center">🛠 Technology Arsenal</h2>
 
 <div align="center">
-  <img src="./assets/footer-line.svg" width="600" alt="divider">
-  <p>
-    <strong>Architecting with Precision & Purpose</strong>
-    <br/>
-    <em>Eron Bruti &copy; 2024</em>
+  <p><strong>Languages & Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,cpp,bash,powershell&perline=8" />
+  </a>
+  <br/><br/>
+  
+  <p><strong>Frontend Ecosystem</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,redux,sass,figma&perline=8" />
+  </a>
+  <br/><br/>
+
+  <p><strong>Backend & Database</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mysql,postgres,mongo,firebase,supabase&perline=8" />
+  </a>
+  <br/><br/>
+
+  <p><strong>DevOps, Cloud & AI</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,cloudflare,linux,tensorflow,git,github,githubactions&perline=10" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <!-- Top Row: Stats & Trophies -->
+  <a href="https://github.com/brutieron">
+  <img src="https://github-readme-stats.vercel.app/api?username=brutieron&theme=midnight-owl&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/brutieron">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutieron&theme=midnight-owl&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Snake Animation -->
+  <img src="https://github.com/brutieron/brutieron/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
+</div>
+
+<br/>
+
+---
+
+<!-- Contact & Footer -->
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>Open to discussing system design, AI architecture, or the future of tech.</p>
+  
+  <a href="https://linkedin.com/in/eron-bruti-067b702aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:brutieron@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/brutieron" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+  <br/><br/>
+  
+  <p style="font-size: 12px;">
+    Architecting with Precision & Purpose<br/>
+    <strong>Eron Bruti © 2025</strong>
   </p>
 </div>
