@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Professional Summary -->
-<h3 align="center">⚡ Architectural Vision</h3>
+<h3 align="center">Architectural Vision</h3>
 
 <div align="center">
   <table align="center">
