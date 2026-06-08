@@ -151,7 +151,7 @@
   <br/>
   
   <p style="font-family: monospace; font-size: 12px; color: #8b949e;">
-    <strong>Eron Bruti</strong> &bull; Systems Architect &bull; Prishtina, Kosovo<br/>
+    <strong>Eron Bruti</strong> &bull; Systems Architect &bull; Kaçanik, Kosovo<br/>
     &copy; 2025
   </p>
 </div>
